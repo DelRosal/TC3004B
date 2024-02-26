@@ -15,5 +15,7 @@
     3. Service: SQLPRACTICE_LOW
     4. Select file (wallet file)
 10. REST ENABLE code to make the connection.
+11. Add token to git push.
+
 
 
